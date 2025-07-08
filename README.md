@@ -4,7 +4,7 @@
 
 ## **A private, on-premise chatbot that brings AI efficiency to the complex world of GRC.** 
 
-![](<./images/ai.gif>)
+![](<./images/gui.png>)
 
 ---
 
@@ -54,7 +54,7 @@ The architecture of GRC Co-Pilot is both practical and robust. At the front end,
 
 The system ingests over 50 GB of documentation, preprocesses it, and stores its embeddings in the PostgreSQL vector store. When a user submits a query, the hybrid search retrieves and re-ranks relevant content before passing it to the language model, which generates a response grounded in the organization’s own knowledge.
 
-!\[Placeholder: Architecture Diagram]
+![](<./images/rag-architecture.png>)
 
 ---
 
