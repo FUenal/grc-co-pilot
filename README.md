@@ -4,7 +4,7 @@
 
 ## **A private, on-premise chatbot that brings AI efficiency to the complex world of GRC.** 
 
-![](<./images/showcase_high.gif>)
+![](<./images/ai.gif>)
 
 ---
 
