@@ -55,7 +55,7 @@ The architecture of GRC Co-Pilot is both practical and robust. At the front end,
 The system ingests over 50 GB of documentation, preprocesses it, and stores its embeddings in the PostgreSQL vector store. When a user submits a query, the hybrid search retrieves and re-ranks relevant content before passing it to the language model, which generates a response grounded in the organization’s own knowledge.
 
 ![](<./images/rag-architecture.png>)
-
+Source Architecture: https://blog.gopenai.com/how-to-build-a-chatbot-to-chat-with-your-pdf-9abb9beaf0c4
 ---
 
 ### 6. How It Helped My Team
