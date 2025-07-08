@@ -4,6 +4,8 @@
 
 ## **A private, on-premise chatbot that brings AI efficiency to the complex world of GRC.** 
 
+![](<./images/showcase_high.gif>)
+
 ---
 
 ### 1. Setting the Scene: GRC in the Age of Complexity
