@@ -42,7 +42,7 @@ The document types supported by the system are diverse: PDFs, Word and Excel fil
 
 Beyond conversational answers, GRC Co-Pilot also powers dashboards that offer high-level insights for management. These dashboards include compliance scores across departments, indicators of audit readiness, freshness of policy documents, and even user engagement metrics—offering a holistic view of the organization's GRC posture.
 
-!\[Placeholder: Dashboard Visual]
+![](<./images/showcase_high.gif>)
 
 ---
 
