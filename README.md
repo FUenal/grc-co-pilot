@@ -22,7 +22,7 @@ GRC Co-Pilot began as an idea rooted in necessity—a need to simplify the overw
 
 The engine behind this assistant is a powerful blend of two open-source large language models: Gemma 2 (27B) and LLaMA 3.3 70B. Together, they enable dynamic querying and understanding of a vast, curated knowledge base that includes internal policies, risk assessments, audit reports, and regulatory frameworks such as ISO, NIST, and GDPR. The assistant adapts to the user—whether it’s a risk analyst digging into control mappings or an executive requesting a compliance overview.
 
-!\[Placeholder: Chatbot Interface Visual]
+![](<./images/gui.png>)
 
 ---
 
